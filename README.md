@@ -1,4 +1,4 @@
-# Sprite Editor [![Github All Downloads](https://img.shields.io/github/downloads/mgk82/packtracker/total.svg)](https://github.com/mgk82/packtracker/releases)
+# Sprite Editor [![Github All Downloads](https://img.shields.io/github/downloads/Thiladon/sprite-editor/total.svg)](https://github.com/Thiladon/sprite-editor/releases)
 
 Projet en [Java](https://docs.oracle.com/javase/7/docs/api/) d'un éditeur de sprite pour la matière `Travaux Personnels Approfondies` de notre Licence Informatique 2° année.
 
