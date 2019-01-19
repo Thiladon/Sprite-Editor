@@ -10,7 +10,7 @@
 ```java
 package <Nom_du_package>.<sous-dossier>.<etc>; // Convention de naming : comme pour les variables.
 
-import <Chemin_vers_class_dans_un_sous_dossier>.;<Nom_de_la_classe> // Pour importer une classe ou une de ses méthodes, ne pas mettre l'extension à la fin.
+import <Chemin_vers_class_dans_un_sous_dossier>.<Nom_de_la_classe>; // Pour importer une classe ou une de ses méthodes, ne pas mettre l'extension à la fin.
 
 // ou 
 
