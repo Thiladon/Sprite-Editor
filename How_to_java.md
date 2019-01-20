@@ -1,16 +1,18 @@
 # How to Java
 # Table des matières
-- [Les bases d'une classe](#les-bases)
-	- [Naming et structure de fichiers](#naming-et-structure)
+
+ 1. [Les bases d'une classe](#les-bases)
+	 - [Naming et structure de fichiers](#naming-et-structure)
 	- [Les modificateurs d'accès](#les-modificateurs)
 	- [Les méthodes](#méthodes)
-	- [Les variables](#Variables)
+	- [Les variables](#variables)
+	- [Les tableaux](#les-tableaux)
 ## Les bases
 ### Naming et structure
 ```java
 package <Nom_du_package>.<sous-dossier>.<etc>; // Convention de naming : comme pour les variables.
 
-import <Chemin_vers_class_dans_un_sous_dossier>.<Nom_de_la_classe>; // Pour importer une classe ou une de ses méthodes, ne pas mettre l'extension à la fin.
+import <Chemin_vers_class_dans_un_sous_dossier>.;<Nom_de_la_classe> // Pour importer une classe ou une de ses méthodes, ne pas mettre l'extension à la fin.
 
 // ou 
 
@@ -72,4 +74,12 @@ float[] floatArray = new float[size];
 
 // etc..
 ```
+Et une List se défini  de la même façon, sans les crochets car List étant une class, elle se construit comme une class, cependant il ne faut pas oublié d'importer la class.
+```java
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
+List<Integer> uneList = new ArrayList<>()
+```
+## Aller plus loin
