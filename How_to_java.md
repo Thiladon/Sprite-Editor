@@ -2,13 +2,23 @@
 # Table des matières
 
  - [How to java](#how-to-java)
-	 1. [Les bases d'une classe](#les-bases)
-		 - [Naming et structure de fichiers](#naming-et-structure)
+	 1. [ToDo List](#que-reste-t-il-a-faire)
+	 2. [Les bases d'une classe](#les-bases)
+		- [Naming et structure de fichiers](#naming-et-structure)
+		- [Le fichier main](#le-fichier-main)
 		- [Les modificateurs d'accès](#les-modificateurs)
 		- [Les méthodes](#méthodes)
 		- [Les variables](#variables)
 		- [Les tableaux](#les-tableaux)
 	2. [Aller plus loin](#aller-plus-loin)
+		- [Notion de classe abstraite et héritage](#les-class-abstraites-et-l-héritage). 
+		- [Comment utiliser une classe](#la-manipulation-de-class)
+## Que reste t il a faire
+ - [ ] Basique - Modifateurs non vus en cours.
+ - [ ] Avancé - Classes abstraites
+ - [ ] Avancé - Manipulation de classe
+ - [ ] Avancé - Architecture Orientée Objets (Modèle MVC)
+ - [ ] Avancé - La serialization des données,  ou comment enregistré mes variables dans un fichier 
 ## Les bases
 ### Naming et structure
 ```java
@@ -85,3 +95,11 @@ import java.util.List;
 List<Integer> uneList = new ArrayList<>()
 ```
 ## Aller plus loin
+### Les class abstraites et l héritage
+```java
+// complete stuff later ...
+```
+### La manipulation de class
+```java
+// complete stuff later ...
+```
