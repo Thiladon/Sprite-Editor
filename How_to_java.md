@@ -1,12 +1,14 @@
 # How to Java
 # Table des matières
 
- 1. [Les bases d'une classe](#les-bases)
-	 - [Naming et structure de fichiers](#naming-et-structure)
-	- [Les modificateurs d'accès](#les-modificateurs)
-	- [Les méthodes](#méthodes)
-	- [Les variables](#variables)
-	- [Les tableaux](#les-tableaux)
+ - [How to java](#how-to-java)
+	 1. [Les bases d'une classe](#les-bases)
+		 - [Naming et structure de fichiers](#naming-et-structure)
+		- [Les modificateurs d'accès](#les-modificateurs)
+		- [Les méthodes](#méthodes)
+		- [Les variables](#variables)
+		- [Les tableaux](#les-tableaux)
+	2. [Aller plus loin](#aller-plus-loin)
 ## Les bases
 ### Naming et structure
 ```java
